@@ -42,7 +42,7 @@ A **digital solutions & marketing brand** that provides:
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m7mdnas&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mdnas&layout=compact&theme=radical)  
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m7mdnas&theme=radical)  
 
 ---
